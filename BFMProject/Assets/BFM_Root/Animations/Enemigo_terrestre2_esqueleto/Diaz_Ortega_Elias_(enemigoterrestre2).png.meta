@@ -1,0 +1,1077 @@
+fileFormatVersion: 2
+guid: eff5d7a63afe2cd49b2f533393154e1e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f0832ff719a046a10c8c990d135c1
+      internalID: -268555129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529aafc872e6aa04bb7464f6cf70d5a0
+      internalID: 157001421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd01bc8e0e6d148ac2975fbf134d2c
+      internalID: -1632353059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3374d23e5aac18144b6fee7f773f74e1
+      internalID: -1879772207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d951369d391941ae2b0c92976d977
+      internalID: 1325152303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594d649f99f53b48900c6a30fad3030
+      internalID: 987837372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49645a7c633c84aaac6082ba7ab4a7
+      internalID: 516145395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 374
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a722c3a4f8c5b42ad7b9c66be7502d
+      internalID: -287821808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4074957d7b738e46b41ec8211d08d83
+      internalID: 1510205979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6724b599892c714cab2a50d31076a93
+      internalID: 49369481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b125bc704a04b4bb693d6926d8163f
+      internalID: 666339054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617c85e39c0fe142bc943da28c25787
+      internalID: 1149005510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ef5a0c6e1eb94fb3d6209dcd1190c
+      internalID: 1443796233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d139d1f23d0132a4fa526af687f6449c
+      internalID: -218243887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b7ffbd39b0284f966f5e007a00053
+      internalID: 2123616775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1780e3e010637304f84e3d3f73c76552
+      internalID: 1738087696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcabdd5ea90f54648817721aed98b3bc
+      internalID: 1200534541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc910779e23d5a94c80b84061b8c456f
+      internalID: 1913476828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06ad0f0a91bf24684199f899dfb967
+      internalID: 781012652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a58a0ac203ee4e86b1aa0b3f751b4
+      internalID: -22168399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2c07c70e3dd243bd3f3c03907c871
+      internalID: 1706992803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813be7f2df58dc41b188f958ac1623b
+      internalID: -1438102675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce0ca2e37ac5142b9796600b094a6e
+      internalID: 1940783871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b248647b28f3a549ad4c8b46390c570
+      internalID: 950320852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e56f171f2359409a57504c097fafa
+      internalID: -407547985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a6549dd8066ee488ee0cf051e33671
+      internalID: 1136447460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb825485e6000a428552231d66e710b
+      internalID: 1264862405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f73180086486104fb25c38770afab01
+      internalID: 1727908891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345f2dd7a2f2694fa85f9886e59c47c
+      internalID: 395197568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eb1714ef5d99a4290539e89ff8efac
+      internalID: 1623708651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e7546ea5d7854438cf57fd5de727ec
+      internalID: -707266784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f07a05bbd7d27448729697f2b28c14
+      internalID: 1816502810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01453a93851fc8542a316e6e01b1c592
+      internalID: -653737518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e88d89ae5124f4e8c9276f0d3eb243
+      internalID: -1325617269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfcea400d1db17499f2a27b51b914a9
+      internalID: -925026058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f11157e0a9b6b7488d53913e1f07f3b
+      internalID: 628938425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d971ce7294225b049bf6c54c93b22987
+      internalID: 2147104652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6cb8baaae62e349a511a1d8d70346f
+      internalID: -1704011312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797d42a27c2d2e54eb20e22437287a41
+      internalID: 2053253673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f94a485d278b42bfce7e35364b6a3
+      internalID: -900703839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee7bf93d7e1de478979681420e47d0
+      internalID: -1155417356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diaz_Ortega_Elias_(enemigoterrestre2)_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 182
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda24859245802489bf110ee807d0de
+      internalID: -605798168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Diaz_Ortega_Elias_(enemigoterrestre2)_0: -268555129
+      Diaz_Ortega_Elias_(enemigoterrestre2)_1: 157001421
+      Diaz_Ortega_Elias_(enemigoterrestre2)_10: 666339054
+      Diaz_Ortega_Elias_(enemigoterrestre2)_11: 1149005510
+      Diaz_Ortega_Elias_(enemigoterrestre2)_12: 1443796233
+      Diaz_Ortega_Elias_(enemigoterrestre2)_13: -218243887
+      Diaz_Ortega_Elias_(enemigoterrestre2)_14: 2123616775
+      Diaz_Ortega_Elias_(enemigoterrestre2)_15: 1738087696
+      Diaz_Ortega_Elias_(enemigoterrestre2)_16: 1200534541
+      Diaz_Ortega_Elias_(enemigoterrestre2)_17: 1913476828
+      Diaz_Ortega_Elias_(enemigoterrestre2)_18: 781012652
+      Diaz_Ortega_Elias_(enemigoterrestre2)_19: -22168399
+      Diaz_Ortega_Elias_(enemigoterrestre2)_2: -1632353059
+      Diaz_Ortega_Elias_(enemigoterrestre2)_20: 1706992803
+      Diaz_Ortega_Elias_(enemigoterrestre2)_21: -1438102675
+      Diaz_Ortega_Elias_(enemigoterrestre2)_22: 1940783871
+      Diaz_Ortega_Elias_(enemigoterrestre2)_23: 950320852
+      Diaz_Ortega_Elias_(enemigoterrestre2)_24: -407547985
+      Diaz_Ortega_Elias_(enemigoterrestre2)_25: 1136447460
+      Diaz_Ortega_Elias_(enemigoterrestre2)_26: 1264862405
+      Diaz_Ortega_Elias_(enemigoterrestre2)_27: 1727908891
+      Diaz_Ortega_Elias_(enemigoterrestre2)_28: 395197568
+      Diaz_Ortega_Elias_(enemigoterrestre2)_29: 1623708651
+      Diaz_Ortega_Elias_(enemigoterrestre2)_3: -1879772207
+      Diaz_Ortega_Elias_(enemigoterrestre2)_30: -707266784
+      Diaz_Ortega_Elias_(enemigoterrestre2)_31: 1816502810
+      Diaz_Ortega_Elias_(enemigoterrestre2)_32: -653737518
+      Diaz_Ortega_Elias_(enemigoterrestre2)_33: -1325617269
+      Diaz_Ortega_Elias_(enemigoterrestre2)_34: -925026058
+      Diaz_Ortega_Elias_(enemigoterrestre2)_35: 628938425
+      Diaz_Ortega_Elias_(enemigoterrestre2)_36: 2147104652
+      Diaz_Ortega_Elias_(enemigoterrestre2)_37: -1704011312
+      Diaz_Ortega_Elias_(enemigoterrestre2)_38: 2053253673
+      Diaz_Ortega_Elias_(enemigoterrestre2)_39: -900703839
+      Diaz_Ortega_Elias_(enemigoterrestre2)_4: 1325152303
+      Diaz_Ortega_Elias_(enemigoterrestre2)_40: -1155417356
+      Diaz_Ortega_Elias_(enemigoterrestre2)_41: -605798168
+      Diaz_Ortega_Elias_(enemigoterrestre2)_5: 987837372
+      Diaz_Ortega_Elias_(enemigoterrestre2)_6: 516145395
+      Diaz_Ortega_Elias_(enemigoterrestre2)_7: -287821808
+      Diaz_Ortega_Elias_(enemigoterrestre2)_8: 1510205979
+      Diaz_Ortega_Elias_(enemigoterrestre2)_9: 49369481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

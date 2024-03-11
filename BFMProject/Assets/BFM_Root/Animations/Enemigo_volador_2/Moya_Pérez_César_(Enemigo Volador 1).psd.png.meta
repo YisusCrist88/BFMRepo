@@ -1,0 +1,1121 @@
+fileFormatVersion: 2
+guid: 7f4305d58d3e5ee4bbd58f8ef0ba68ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89afafbcbbbbe44198e26ef0f71d0c4
+      internalID: -2015591417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10694a8d7fa47af4ca93ac6beada2c40
+      internalID: 217378216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_2"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa676014581b21b429033150541eefcb
+      internalID: -313000887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_3"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be80923f0345148a6be056b2cd0b07
+      internalID: -1676521984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_4"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50b4ff4e847b0d45a447a04f6301f4c
+      internalID: 1592366199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_5"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb293b9f573379a428dbb442057f4e67
+      internalID: -624782900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3edefed178a0419e1d0cc103459e5
+      internalID: 1524818921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4a816a082343041999063ea858af27
+      internalID: 1591683936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_8"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c3c0b407dafb4fb184bb9bbb7939f
+      internalID: 104102690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_9"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f63533060b5c346b13a0587ae7f84f
+      internalID: 1732598986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_10"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83404802a737e1e4c9490e2a0b3948c9
+      internalID: -1444432162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_11"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65772132233870f4f80b07368b0915ab
+      internalID: 1570856559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_12"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8e1932adf8a845a6a4fc8fd6c94f2
+      internalID: 1867468568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_13"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d12146e1c8bdc9418b2980e008aa2d5
+      internalID: -1247326828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_14"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c848656d46c5418922a216ee0b76b
+      internalID: 1152457619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_15"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98e07fff81cbf4eb7dd3aa89ef3586
+      internalID: 1392850749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_16"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccd3e85f4c5f44999c224bb5cbf2dd
+      internalID: 822584980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_17"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9fb1ea05361cc45bce8d63923c4cc4
+      internalID: -1730724676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e90fc30482f84283cfd9545f614ba
+      internalID: 341865186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_19"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0ffbbbcb04c04080d52056a273baa
+      internalID: 1974692475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444af6673991fa449a8fe5ae891dbc05
+      internalID: 1486745074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_21"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8975bf852b25b4fb7d5e71f17cadd9
+      internalID: -1040662465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_22"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6c6baf63344a44bbf83cca26793646
+      internalID: -1713460447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_23"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dfb5957824e114d85dd2ef4ccdbe65
+      internalID: 1067601388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_24"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50708a974497144a9ce7b495c37686
+      internalID: -1714614223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_25"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28277941cc7685849991d2718fbf929d
+      internalID: 1815453539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_26"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f2272148afc545888598a911a907d
+      internalID: -2136106631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_27"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4767a0e4e66b14c94bec0156500f29
+      internalID: -390588181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_28"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78174661ce554f42992b4b0144864f4
+      internalID: -828933917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_29"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb0b8698b59e94e9130d11a4f32b3f
+      internalID: 2132099641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c920db7a86d1a604a8944f78c35da3cb
+      internalID: 574157338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_31"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8297d3e861fd5cd4fa8674df97ce8219
+      internalID: 124814828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_32"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c347e502e61e47a4fb5deb654b24c68a
+      internalID: -1727780939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_33"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b893329cae2448bccab6939d81f21
+      internalID: 2119841710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_34"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f15a5b38e69484aab138255550eac0
+      internalID: 112144723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_35"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9d80f8ed5bfca49b7fa05ee2aaad7d
+      internalID: -1781650611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_36"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25eaccfd42405c40928cdb5412588aa
+      internalID: -1178174057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_37"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fa9cf5286bc7479926d3a2aa83dfb
+      internalID: -728673568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_38"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1497ee97384de840a3fe66b1547737c
+      internalID: -1615323940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_39"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8a334e6efada46adf10534602d289
+      internalID: 1585434726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_40"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da37697456866469c86c874ed53486
+      internalID: 227549588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_41"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060e27076a08df4a8c79375b9030fa6
+      internalID: -2076158840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_42"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de966fa4523c242876c96c6e8cad3f
+      internalID: 1011167700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_43"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29896b65668b00c4ea23520814b71c61
+      internalID: -350205749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_0": -2015591417
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_1": 217378216
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_10": -1444432162
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_11": 1570856559
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_12": 1867468568
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_13": -1247326828
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_14": 1152457619
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_15": 1392850749
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_16": 822584980
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_17": -1730724676
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_18": 341865186
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_19": 1974692475
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_2": -313000887
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_20": 1486745074
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_21": -1040662465
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_22": -1713460447
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_23": 1067601388
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_24": -1714614223
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_25": 1815453539
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_26": -2136106631
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_27": -390588181
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_28": -828933917
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_29": 2132099641
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_3": -1676521984
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_30": 574157338
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_31": 124814828
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_32": -1727780939
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_33": 2119841710
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_34": 112144723
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_35": -1781650611
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_36": -1178174057
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_37": -728673568
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_38": -1615323940
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_39": 1585434726
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_4": 1592366199
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_40": 227549588
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_41": -2076158840
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_42": 1011167700
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_43": -350205749
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_5": -624782900
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_6": 1524818921
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_7": 1591683936
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_8": 104102690
+      "Moya_P\xE9rez_C\xE9sar_(Enemigo Volador 1).psd_9": 1732598986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
