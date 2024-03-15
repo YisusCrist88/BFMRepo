@@ -261,10 +261,10 @@ MonoBehaviour:
   jumpforce: 5
   RespawnPoint: {fileID: 0}
   ShootPoint: {fileID: 8225322985806581471}
-  isGrounded: 0
+  isGrounded: 1
   groundCheck: {fileID: 4619552865018332906}
   groundLayer:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 0
   playerHealth: 0
   maxHealth: 3
